@@ -10,7 +10,7 @@ void draw() {
   
   noStroke();
   fill(#8B4513);
-  rect(0, height-375, width, 375);
+  rect(0, height-385, width, 385);
   
     noStroke();
     fill(#FDFD13);
