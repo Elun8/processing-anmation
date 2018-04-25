@@ -5,7 +5,7 @@ void setup() {
 }
 
 void draw() {
-  background(#87CEEB);
+  background(#87CEFA);
   
   
   noStroke();
