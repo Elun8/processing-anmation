@@ -52,5 +52,12 @@ noStroke();
 fill(#1E90FF);
 ellipse(rain[i].x, rain[i].y, 10, 20);
 
+// clouds
+  noStroke();
+  fill(255);
+  ellipse(cloudX, cloudY, 70, 50);
+  ellipse(cloudX+20, cloudY+15, 70, 50);
+  ellipse(cloudX-20, cloudY+15, 70, 50);
+
 }
 }
