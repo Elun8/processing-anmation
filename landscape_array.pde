@@ -1,6 +1,9 @@
 PVector[] rain;
 PVector[] rainspeed;
+int cloudX;
+int cloudY;
 int x;
+
 void setup(){
 size(600, 600);
 
